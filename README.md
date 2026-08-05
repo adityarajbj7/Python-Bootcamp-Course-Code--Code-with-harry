@@ -1,118 +1,249 @@
-# 🐍 Python Bootcamp Course Code – CodeWithHarry
+# 🐍 Complete 2026 Python Bootcamp – CodeWithHarry (Udemy)
 
-> A complete collection of my Python practice files, exercises, projects, and notes while following the **CodeWithHarry Python Bootcamp**.
+> My complete source code, notes, exercises, assignments, and projects while learning Python through **CodeWithHarry's Complete 2026 Python Bootcamp** on Udemy.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
-
----
-
-## 📖 About
-
-This repository contains all the code written during the **CodeWithHarry Python Bootcamp**. It serves as a personal learning archive and tracks my progress from Python basics to advanced concepts.
-
-The repository includes:
-
-- Python fundamentals
-- Practice questions
-- Assignments
-- Mini projects
-- Object-Oriented Programming (OOP)
-- File handling
-- Modules & Packages
-- Exception handling
-- Advanced Python concepts
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Course](https://img.shields.io/badge/Course-CodeWithHarry-red?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Status](https://img.shields.io/badge/Progress-In%20Progress-success?style=for-the-badge)
 
 ---
 
-## 📂 Repository Structure
+# 📚 About
+
+This repository contains every piece of code I write while following the **Complete 2026 Python Bootcamp: Learn Python from Scratch** by **CodeWithHarry**.
+
+The goal of this repository is to document my learning journey from **complete beginner** to **job-ready Python developer** through hands-on coding, real-world projects, and consistent practice.
+
+Every lecture has its own source code, practice programs, notes, and mini-projects.
+
+---
+
+# 🎯 Course Information
+
+**Course:** Complete 2026 Python Bootcamp: Learn Python from Scratch
+
+**Instructor:** CodeWithHarry (Haris Ali Khan)
+
+**Platform:** Udemy
+
+**Level:** Beginner → Advanced
+
+**Language:** English
+
+**Duration:** ~17+ Hours
+
+**Lectures:** 100+ Lessons
+
+**Certificate:** ✔ Included
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Python-Bootcamp-Course-Code/
 │
-├── 01_Introduction/
-├── 02_Variables_and_Data_Types/
-├── 03_Operators/
-├── 04_Strings/
-├── 05_Lists/
-├── 06_Tuples/
-├── 07_Dictionaries/
-├── 08_Sets/
-├── 09_Conditional_Statements/
-├── 10_Loops/
-├── 11_Functions/
-├── 12_Recursion/
-├── 13_File_Handling/
-├── 14_Modules/
-├── 15_OOP/
-├── 16_Inheritance/
-├── 17_Exception_Handling/
-├── 18_Advanced_Python/
+├── Section 01 - Introduction to Programming & Python/
+├── Section 02 - Python Fundamentals/
+├── Section 03 - Control Flow & Loops/
+├── Section 04 - Strings/
+├── Section 05 - Functions & Modules/
+├── Section 06 - Data Structures/
+├── Section 07 - Object Oriented Programming/
+├── Section 08 - Advanced Python Concepts/
+├── Section 09 - File Handling/
+├── Section 10 - External Libraries/
+├── Section 11 - AI for Developers/
+├── Section 12 - Python Projects/
+├── Section 13 - Flask Web Development/
+├── Section 14 - VidSnapAI Project/
+├── Section 15 - Git & GitHub/
+├── Section 16 - Final Notes/
+│
+├── Assignments/
+├── Practice/
 ├── Projects/
+├── Notes/
 └── README.md
 ```
 
-> Folder names may change as the course progresses.
+---
+
+# 🚀 Topics Covered
+
+## Python Basics
+
+- Variables
+- Data Types
+- Operators
+- Input & Output
+- Type Casting
+- Comments
 
 ---
 
-## 🎯 Course Topics
+## Control Flow
 
-- ✅ Python Installation
-- ✅ Variables
-- ✅ Data Types
-- ✅ Operators
-- ✅ Strings
-- ✅ Lists
-- ✅ Tuples
-- ✅ Dictionaries
-- ✅ Sets
-- ✅ If-Else Statements
-- ✅ Match Case
-- ✅ Loops
-- ✅ Functions
-- ✅ Recursion
-- ✅ File Handling
-- ✅ Modules
-- ✅ Virtual Environments
-- ✅ OOP
-- ✅ Inheritance
-- ✅ Polymorphism
-- ✅ Exception Handling
-- ✅ Lambda Functions
-- ✅ Iterators & Generators
-- ✅ Decorators
-- ✅ Projects
+- if
+- elif
+- else
+- match-case
+- Nested Conditions
 
 ---
 
-## 🛠 Requirements
+## Loops
 
-- Python 3.10+
-- Visual Studio Code (Recommended)
-
-Download Python:
-
-https://www.python.org/downloads/
+- for Loop
+- while Loop
+- break
+- continue
+- pass
 
 ---
 
-## ▶️ Running the Code
+## Strings
 
-Clone the repository:
+- String Methods
+- Slicing
+- Formatting
+- f-Strings
+
+---
+
+## Functions
+
+- Parameters
+- Return Values
+- Default Arguments
+- Lambda Functions
+- Recursion
+
+---
+
+## Data Structures
+
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+
+---
+
+## Object-Oriented Programming
+
+- Classes
+- Objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+---
+
+## Advanced Python
+
+- Decorators
+- Generators
+- Iterators
+- Context Managers
+- Exception Handling
+
+---
+
+## File Handling
+
+- Reading Files
+- Writing Files
+- CSV
+- JSON
+- OS Module
+- shutil
+
+---
+
+## External Libraries
+
+- requests
+- random
+- datetime
+- pathlib
+- os
+- shutil
+- math
+
+---
+
+## AI Tools
+
+- Cursor AI
+- GitHub Copilot
+- AI-assisted Python development
+
+---
+
+## Flask
+
+- Flask Basics
+- Routing
+- Templates
+- Forms
+- Mini Web Applications
+
+---
+
+## Git & GitHub
+
+- Git Basics
+- Version Control
+- GitHub Workflow
+
+---
+
+## Projects
+
+✔ Calculator
+
+✔ Guess the Number
+
+✔ Snake Water Gun
+
+✔ Automation Scripts
+
+✔ Flask Applications
+
+✔ VidSnapAI
+
+✔ More Mini Projects
+
+---
+
+# 🛠 Requirements
+
+- Python 3.13+
+- VS Code
+- Git
+- Internet Connection
+
+---
+
+# ▶ Running the Code
+
+Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Python-Bootcamp-Course-Code.git
+git clone https://github.com/<your-username>/Python-Bootcamp-Course-Code.git
 ```
 
-Go into the project:
+Open the project
 
 ```bash
 cd Python-Bootcamp-Course-Code
 ```
 
-Run any Python file:
+Run a program
 
 ```bash
 python filename.py
@@ -126,59 +257,66 @@ python3 filename.py
 
 ---
 
-## 📚 Learning Resource
-
-Course:
-**CodeWithHarry - Python Bootcamp**
-
-YouTube:
-https://www.youtube.com/@CodeWithHarry
-
----
-
-## 📈 Progress
+# 📈 Progress Tracker
 
 | Section | Status |
-|---------|--------|
-| Python Basics | ⏳ |
-| Data Structures | ⏳ |
-| Functions | ⏳ |
-| OOP | ⏳ |
-| File Handling | ⏳ |
-| Advanced Python | ⏳ |
-| Projects | ⏳ |
+|----------|:------:|
+| Introduction | ⬜ |
+| Python Fundamentals | ⬜ |
+| Control Flow | ⬜ |
+| Strings | ⬜ |
+| Functions | ⬜ |
+| Data Structures | ⬜ |
+| OOP | ⬜ |
+| Advanced Python | ⬜ |
+| File Handling | ⬜ |
+| Libraries | ⬜ |
+| AI Tools | ⬜ |
+| Flask | ⬜ |
+| Projects | ⬜ |
+| Git | ⬜ |
+
+> 🟩 Completed 🟨 In Progress ⬜ Not Started
 
 ---
 
-## 🎯 Goal
+# 📖 What I'm Learning
 
-The objective of this repository is to:
-
-- Practice Python consistently
-- Build a strong programming foundation
-- Learn problem-solving
-- Prepare for Data Structures & Algorithms
-- Build projects
-- Create a complete Python reference for future use
-
----
-
-## 🤝 Contributions
-
-This repository is maintained for personal learning. Suggestions and improvements are always welcome.
+- Writing clean Python code
+- Problem Solving
+- Automation
+- Object-Oriented Programming
+- Building Real-World Projects
+- Flask Backend Development
+- Git & GitHub
+- AI-assisted Programming
 
 ---
 
-## ⭐ Support
+# 📜 Certificate
 
-If this repository helps you, consider giving it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This repository is for educational purposes only.
+The certificate will be added after successfully completing the course.
 
 ---
 
-### Happy Coding! 🚀
+# 🙏 Credits
+
+Course created by **CodeWithHarry (Haris Ali Khan)**.
+
+This repository contains **my own code and notes** written while following the course. It does **not** contain any copyrighted course videos or paid course materials. :contentReference[oaicite:1]{index=1}
+
+---
+
+# ⭐ Support
+
+If you find this repository useful, consider giving it a **⭐ Star** on GitHub.
+
+---
+
+# 📄 License
+
+This project is intended for **educational purposes only**.
+
+---
+
+## Happy Coding! 🚀🐍
