@@ -1,5 +1,8 @@
-text = "123abc"
+str1 = "123abc"
 
-print(text.isalnum())
+if str1.isalnum():
+    print("Yes this string is alphanumeric")
 
-#Solved
+else:
+    print("This string is not alphanumeric")
+
