@@ -1,5 +1,4 @@
 sentence = "Coding in Python is fun"
 
-print(sentence.replace("fun","awesome"))
-
-#solved
+new = sentence.replace("fun", "awesome")
+print(new)
