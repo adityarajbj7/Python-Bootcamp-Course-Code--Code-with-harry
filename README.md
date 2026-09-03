@@ -19,7 +19,7 @@
 
 <div align="center">
 
-# `>_ SYSTEM INITIALIZED`
+# `>_ SYSTEM INITIALIZED!`
 
 ### `A beginner today. A software developer in progress.`
 
