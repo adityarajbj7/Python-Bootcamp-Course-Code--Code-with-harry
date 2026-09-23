@@ -1,0 +1,24 @@
+Summary of the 14_sets folder:
+
+This folder contains two Python files that demonstrate basic set operations in Python:
+
+1. 01_sets.py:
+   - Demonstrates set creation and basic properties
+   - Creates a set with initial values {3, 23, 2, 11}
+   - Prints the set and its type (<class 'set'>)
+   - Includes a commented example showing that sets are unindexed (s[3] would raise an error)
+
+2. 02_set_methods.py:
+   - Demonstrates common set methods:
+     - add(): Adds an element to the set
+     - remove(): Removes a specific element (raises KeyError if element not present)
+     - discard(): Removes an element if present (does not raise error if absent)
+     - pop(): Removes and returns an arbitrary element from the set
+   - Shows the set before and after operations
+
+Key concepts illustrated:
+- Sets are unordered collections of unique elements
+- Duplicate values are automatically removed when creating a set
+- Sets support mathematical operations like union, intersection, etc. (though not shown in these files)
+- Methods for modifying sets: add, remove, discard, pop
+- Difference between remove() (raises error) and discard() (silent failure) when element doesn't exist
